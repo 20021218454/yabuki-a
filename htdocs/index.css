@@ -1,3 +1,41 @@
-#main{
-  color:orange
+
+.main h1{ 
+  font-family: "Kokoro";
+  color: #ff933f;;
+  }
+  
+.main p{
+color: black
+}
+
+/*目次*/
+.box1 {
+  padding: 10px 20px;
+  margin: 2em auto;
+  color: #000;
+  width: 100%;
+  background: #fff5dc;
+  border-top: solid 5px #ff933f;
+  border-bottom: solid 5px #ff933f;
+  }
+
+  .box1 B{
+    font-size: 25px;
+    color: rgb(90, 148, 160)
+  }
+.box1 p{
+  color: #000;
+  font-size: 20px;
+}
+
+/*リンク*/
+
+a:link{
+  color: #0070c0;
+}
+a:visited { 
+  color:#0070c0;
+  }
+a:hover {
+    color:#003b6b;
 }
